@@ -1,2 +1,2 @@
 # helloWorld
-the frist my program
+new program for git
